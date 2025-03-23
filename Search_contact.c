@@ -1,4 +1,4 @@
-#include "contact.h"
+#include "Headers.h"
 
 // Function to search for a contact
 int searchContact(AddressBook *addressBook)
