@@ -1,4 +1,4 @@
-#include "contact.h"
+#include "Headers.h"
 
 // Function to validate the name
 int name_validate(char name[], AddressBook *addressBook)
