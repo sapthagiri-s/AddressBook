@@ -1,4 +1,4 @@
-#include "contact.h"
+#include "Headers.h"
 
 
 // Function to edit a contact
