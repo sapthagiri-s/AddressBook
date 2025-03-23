@@ -1,4 +1,4 @@
-#include "contact.h"
+#include "Headers.h"
 
 // Function to delete a contact
 void deleteContact(AddressBook *addressBook)
